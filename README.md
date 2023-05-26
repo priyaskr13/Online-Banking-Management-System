@@ -93,7 +93,6 @@ Deposit to other account
 ![Screenshot (1084)](https://github.com/priyaskr13/Online-Banking-Management-System/assets/111446466/efd5748e-3a1b-4129-bdb3-4811802240ea)
 
 Withdrawal from my account
-![Screenshot (1092)](https://github.com/priyaskr13/Online-Banking-Management-System/assets/111446466/61d51c10-16a8-43a3-9143-28970506068b)
 ![Screenshot (1093)](https://github.com/priyaskr13/Online-Banking-Management-System/assets/111446466/e3242996-05d6-48ac-999a-fde7b2e5b218)
 ![Screenshot (1094)](https://github.com/priyaskr13/Online-Banking-Management-System/assets/111446466/25361153-8a84-41c6-99b9-5d100bbbc6e7)
 
