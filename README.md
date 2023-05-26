@@ -6,10 +6,11 @@ The system has two main user roles, the customer, and the administrator. Custome
                       
 
         
-# Home Page 
+Home Page 
 ![Screenshot (1033)](https://github.com/priyaskr13/Online-Banking-Management-System/assets/111446466/857271a5-c23a-4e03-bf97-0b341efb6df6)
 
-# About us
+About us
+
 ![Screenshot (1046)](https://github.com/priyaskr13/Online-Banking-Management-System/assets/111446466/5eba88d3-1fb5-4454-bb33-99b666d28e57)
 
              ** # Adminstration **
