@@ -1,0 +1,37 @@
+	body{
+	 	  text-decoration: none;
+	 	  }
+
+	.nav-menu a {
+	text-decoration: none;
+	color : white;
+	}
+	
+	.nav-menu {
+	background-color: #1C76BC ;
+	margin-left: 0px;
+	font-family : Georgia ;
+	padding : 2px;
+	color: #FFFFFF;
+  
+	}
+	
+	ul{
+	color : white;
+	list-style-type: none;
+	font-size: 22px;
+	font-family: calibri;
+	font-style: none;
+	}
+	
+	li {
+	text-decoration: none;
+	display: inline;
+	padding: 10px;
+	}
+	
+	.nav-menu li:not(.about-section li) a:hover  {
+	padding : 5px;
+	background-color: white;
+	color: black;	
+}
